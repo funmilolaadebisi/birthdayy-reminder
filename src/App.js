@@ -7,7 +7,6 @@ function App() {
   
   const clearAll = () => {
     setPeople([]);
-    alert('hello');
   };
   return (
     <main>
